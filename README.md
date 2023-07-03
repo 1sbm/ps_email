@@ -1,7 +1,5 @@
 # ps_email
 
-PS.KZ Email App
-
 - [Download App](https://apps.object.pscloud.io/PS%20Webmail.apk?AWSAccessKeyId=0PPVKFGOWXLEE197NU7W&Expires=1688388554&Signature=ZQt8KTdR2YjRW9bFp6xMLtDKj40%3D)
 
 ## Getting Started
